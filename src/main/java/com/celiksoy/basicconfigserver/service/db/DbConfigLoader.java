@@ -1,7 +1,7 @@
 package com.celiksoy.basicconfigserver.service.db;
 
-import com.celiksoy.basicconfigserver.service.AbstractLoader;
-import com.celiksoy.basicconfigserver.service.ConfigLoader;
+import com.netas.basicconfigserver.service.AbstractLoader;
+import com.netas.basicconfigserver.service.ConfigLoader;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnExpression;
 import org.springframework.jdbc.core.JdbcTemplate;
